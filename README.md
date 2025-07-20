@@ -1,6 +1,6 @@
 Visual Basicで一から作られた自作Minecraft Launcher.<br>
 以前のバージョンのダウンロードやフィードバック、バグ報告は https://discord.gg/2nAxs5k7ca までお願いします<br>
-サイトなどに掲載するなら直接ダウンロードリンクを張らないで必ずhttps://github.com/yu-118/yu-mc-launcher-v2を貼ってください<br>
+サイトなどに掲載するなら直接ダウンロードリンクを張らないで必ずhttps://github.com/yu-118/yu-mc-launcher-v2  を貼ってください<br>
 yu mc launcher v2の利用規約<br>
 
 (以下、yu mc launcher v2のことをアプリと呼びます)をダウンロードし利用するには必ず本規約を読み同意してください<br>
